@@ -5,11 +5,11 @@ function App() {
     <div className="App">
 
       <div className="My_Name">
-        Tyler Chang.
+        Tyler Chang
       </div>
 
       <div className="Message">
-        Coming Soon <br /> 2021
+        Coming Soon <br /> 2022
       </div>
 
     </div>
