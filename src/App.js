@@ -9,7 +9,7 @@ function App() {
       </div>
 
       <div className="Message">
-        Coming Soon <br /> 2022
+        Coming Soon! <br /> 2022
       </div>
 
     </div>
